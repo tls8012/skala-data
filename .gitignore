@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README.MD
+
+!Python_data_0720_Day1
+!Python_data_0721_Day2
+
+!Python_data_0720_Day1/**
+!Python_data_0721_Day2/**
